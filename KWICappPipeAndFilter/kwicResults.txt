@@ -1,0 +1,17 @@
+Key						Value
+==============================================================
+Attack						 of the Clones
+Awakens						 The Force
+Back						 The Empire Strikes
+Clones						 Attack of the
+Empire						 Strikes Back The
+Force						 Awakens The
+Hope						 A New
+Jedi						 Return Of The
+Menance						 The Phantom
+New						 Hope A
+Phantom						 Menance The
+Return						 Of The Jedi
+Revenge						 of the Sith
+Sith						 Revenge of the
+Strikes						 Back The Empire
